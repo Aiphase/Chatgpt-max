@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Конфигурация API GigaChat
 GIGACHAT_API_URL = "https://gigachat.devices.sberbank.ru/api/v1/GigaChat-Max"  # Замените на актуальный URL API
-API_KEY = "your_api_key_here"  # Ваш API-ключ
+API_KEY = os.getenv("your_api_key_here")  # Ваш API-ключ
 HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
     "Content-Type": "application/json"
