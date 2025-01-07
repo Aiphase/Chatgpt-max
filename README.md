@@ -1,1 +1,1 @@
-Cigagpt-мax - AI assistant based on GigaChat
+Gigagpt-мax - AI assistant based on GigaChat
