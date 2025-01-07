@@ -1,10 +1,6 @@
 Flask
-flask-cors
-python
-gigachain
-unstructured[all-docs]
-pyvis
-pyalex
-duckduckgo-search
-requests
 gunicorn
+gigachain
+flask-cors
+python-dotenv
+requests
