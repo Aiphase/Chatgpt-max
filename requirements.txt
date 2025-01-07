@@ -1,5 +1,6 @@
-gradio
-python-docx
+Flask
+flask_cors
+python
 gigachain
 unstructured[all-docs]
 pyvis
