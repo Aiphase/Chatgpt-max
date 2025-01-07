@@ -5,3 +5,4 @@ unstructured[all-docs]
 pyvis
 pyalex
 duckduckgo-search
+requests
